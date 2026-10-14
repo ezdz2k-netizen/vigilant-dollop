@@ -1,0 +1,7 @@
+MetaTrader5
+numpy
+pandas
+streamlit>=1.37
+plotly
+openai
+python-dotenv

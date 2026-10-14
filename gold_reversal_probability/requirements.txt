@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.2
+MetaTrader5
+scikit-learn>=1.4
+statsmodels>=0.14
+streamlit>=1.36
+plotly>=5.20

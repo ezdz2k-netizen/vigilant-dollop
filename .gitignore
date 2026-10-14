@@ -1,0 +1,29 @@
+
+# API credentials
+.env
+
+# Python virtual environment
+.venv/
+.venv_old/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local logs
+*.log
+
+# Trading data, journals, runtime state, and SQLite sidecars
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.csv
+*.json
+!audit_2026-10-14/static_inventory.json
+
+# Generated research outputs and local caches
+**/*_results/
+**/results/
+**/gold_*_results/
+**/__pycache__/
